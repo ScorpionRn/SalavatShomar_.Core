@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Salavatshomar_Linux-Mac_C-sharp</id>
+    <version>1.0.0</version>
+    <authors>Salavatshomar_Linux-Mac_C-sharp</authors>
+    <owners>Salavatshomar_Linux-Mac_C-sharp</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="Microsoft.NETCore.App" version="2.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="c:\users\scorp_000\documents\visual studio 2017\Projects\Salavatshomar_Linux-Mac_C-sharp\Salavatshomar_Linux-Mac_C-sharp\bin\Debug\netcoreapp2.0\Salavatshomar_Linux-Mac_C-sharp.runtimeconfig.json" target="lib\netcoreapp2.0\Salavatshomar_Linux-Mac_C-sharp.runtimeconfig.json" />
+    <file src="c:\users\scorp_000\documents\visual studio 2017\Projects\Salavatshomar_Linux-Mac_C-sharp\Salavatshomar_Linux-Mac_C-sharp\bin\Debug\netcoreapp2.0\Salavatshomar_Linux-Mac_C-sharp.dll" target="lib\netcoreapp2.0\Salavatshomar_Linux-Mac_C-sharp.dll" />
+  </files>
+</package>

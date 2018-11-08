@@ -1,0 +1,11 @@
+c:\users\scorp_000\documents\visual studio 2017\Projects\Salavatshomar_Linux-Mac_C-sharp\Salavatshomar_Linux-Mac_C-sharp\bin\Debug\netcoreapp2.0\Salavatshomar_Linux-Mac_C-sharp.deps.json
+c:\users\scorp_000\documents\visual studio 2017\Projects\Salavatshomar_Linux-Mac_C-sharp\Salavatshomar_Linux-Mac_C-sharp\bin\Debug\netcoreapp2.0\Salavatshomar_Linux-Mac_C-sharp.runtimeconfig.json
+c:\users\scorp_000\documents\visual studio 2017\Projects\Salavatshomar_Linux-Mac_C-sharp\Salavatshomar_Linux-Mac_C-sharp\bin\Debug\netcoreapp2.0\Salavatshomar_Linux-Mac_C-sharp.runtimeconfig.dev.json
+c:\users\scorp_000\documents\visual studio 2017\Projects\Salavatshomar_Linux-Mac_C-sharp\Salavatshomar_Linux-Mac_C-sharp\bin\Debug\netcoreapp2.0\Salavatshomar_Linux-Mac_C-sharp.dll
+c:\users\scorp_000\documents\visual studio 2017\Projects\Salavatshomar_Linux-Mac_C-sharp\Salavatshomar_Linux-Mac_C-sharp\bin\Debug\netcoreapp2.0\Salavatshomar_Linux-Mac_C-sharp.pdb
+c:\users\scorp_000\documents\visual studio 2017\Projects\Salavatshomar_Linux-Mac_C-sharp\Salavatshomar_Linux-Mac_C-sharp\obj\Debug\netcoreapp2.0\Salavatshomar_Linux-Mac_C-sharp.csprojAssemblyReference.cache
+c:\users\scorp_000\documents\visual studio 2017\Projects\Salavatshomar_Linux-Mac_C-sharp\Salavatshomar_Linux-Mac_C-sharp\obj\Debug\netcoreapp2.0\Salavatshomar_Linux-Mac_C-sharp.csproj.CoreCompileInputs.cache
+c:\users\scorp_000\documents\visual studio 2017\Projects\Salavatshomar_Linux-Mac_C-sharp\Salavatshomar_Linux-Mac_C-sharp\obj\Debug\netcoreapp2.0\Salavatshomar_Linux-Mac_C-sharp.AssemblyInfoInputs.cache
+c:\users\scorp_000\documents\visual studio 2017\Projects\Salavatshomar_Linux-Mac_C-sharp\Salavatshomar_Linux-Mac_C-sharp\obj\Debug\netcoreapp2.0\Salavatshomar_Linux-Mac_C-sharp.AssemblyInfo.cs
+c:\users\scorp_000\documents\visual studio 2017\Projects\Salavatshomar_Linux-Mac_C-sharp\Salavatshomar_Linux-Mac_C-sharp\obj\Debug\netcoreapp2.0\Salavatshomar_Linux-Mac_C-sharp.dll
+c:\users\scorp_000\documents\visual studio 2017\Projects\Salavatshomar_Linux-Mac_C-sharp\Salavatshomar_Linux-Mac_C-sharp\obj\Debug\netcoreapp2.0\Salavatshomar_Linux-Mac_C-sharp.pdb
