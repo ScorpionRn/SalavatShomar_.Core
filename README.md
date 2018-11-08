@@ -2,6 +2,7 @@
 صلوات شمار برای لینوکس و مک با سی شارپ
 
 First you have to install .Core of this link 👇👇
+
 https://www.microsoft.com/net/download/dotnet-core/2.1
 
 then install it
