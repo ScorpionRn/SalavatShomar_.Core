@@ -15,7 +15,7 @@ namespace Salavatshomar_Linux_Mac_C_sharp
             //Start
             start:
             Console.Clear();
-            Console.Write("What do you want to do? \n|___help :: Show help message\n|___start :: Start Counting\n|___about :: Show about message\n==>");
+            Console.Write("What do you want to do? \n|___help :: Show help message\n|___start :: Start Counting\n|___about :: Show about message\n==> ");
             string command = Console.ReadLine();
             //Commands
             if (command == "start")
@@ -50,7 +50,7 @@ namespace Salavatshomar_Linux_Mac_C_sharp
             {
                 Console.Clear();
 
-                Console.Write("Developer: Scorpion_Rn\nTelegram Channel: https://t.me/salavat_shomar_app_channel \nGithub: \nSite: \n");
+                Console.Write("Developer: Scorpion_Rn\nTelegram Channel: https://t.me/salavat_shomar_app_channel \nGithub: https://github.com/ScorpionRn \n");
                 Console.Write("for back enter 'back' ==>");
                 string back = Console.ReadLine();
                 if (back == "back")
